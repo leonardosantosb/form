@@ -16,7 +16,7 @@
   flex-direction: column;
 }
 #evaluation-form input {
-  width: 400px;
+  width: 250px;
 }
 #evaluation-form .container {
   display: flex;
