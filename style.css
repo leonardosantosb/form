@@ -1,4 +1,4 @@
-.header{
+.header {
   display: flex;
   background-color: rgb(50, 167, 145);
   width: 100%;
@@ -6,18 +6,25 @@
   justify-content: space-between;
 }
 
-.trybewarts-login{
-  display: flex
+.trybewarts-login {
+  display: flex;
 }
-#evaluation-form{
+#evaluation-form {
   display: flex;
   width: 675px;
   border: solid black;
   flex-direction: column;
 }
-main{
+#evaluation-form input {
+  width: 400px;
+}
+#evaluation-form .container {
   display: flex;
 }
-#trybewarts-forms-logo{
+
+main {
+  display: flex;
+}
+#trybewarts-forms-logo {
   height: 500px;
 }
