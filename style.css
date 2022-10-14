@@ -22,6 +22,11 @@
   display: flex;
 }
 
+#avaliacao {
+  width: 10px;
+  display: flex;
+}
+
 main {
   display: flex;
 }
