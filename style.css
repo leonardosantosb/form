@@ -15,10 +15,11 @@
   border: solid black;
   flex-direction: column;
 }
-#evaluation-form input {
+.container .forms {
   width: 250px;
 }
-#evaluation-form .container {
+
+.container {
   display: flex;
 }
 
