@@ -9,12 +9,14 @@
 .trybewarts-login {
   display: flex;
 }
+
 #evaluation-form {
   display: flex;
   width: 675px;
   border: solid black;
   flex-direction: column;
 }
+
 .container .forms {
   width: 250px;
 }
@@ -31,6 +33,7 @@
 main {
   display: flex;
 }
+
 #trybewarts-forms-logo {
   height: 500px;
 }
