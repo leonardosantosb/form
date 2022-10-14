@@ -15,5 +15,4 @@ checkboxBtn.addEventListener("click", () => {
   const buttonSubmit = document.querySelector("#submit-btn");
   if (checkboxBtn.checked) buttonSubmit.disabled = false;
   else buttonSubmit.disabled = true;
-  console.log(checkbox.checked);
 });
